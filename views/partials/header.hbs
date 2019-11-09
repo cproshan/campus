@@ -1,0 +1,32 @@
+<nav class="container-fluid navbar navbar-expand-lg navbar-light bg-primary">
+    <a class="navbar-brand text-white font-weight-bolder" href="/">PPTM ARTS & SCIENCE COLLEGE</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="cotainer-fluid collapse navbar-collapse justify-content-end " id="navbarSupportedContent">
+        <ul class="navbar-nav  ">
+            <li class="nav-item">
+                <a class="nav-link text-white" href="#">HOME </a>
+            </li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+            <li class="nav-item dropdown mr-5">
+                {{!-- <a class="nav-link dropdown-toggle text-white" href="dropdown-menu" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                <i class="fas fa-user text-white"></i>  User managment
+                </a> --}}
+                <div class="dropdown">
+                    <button class="btn btn-success dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        LOGIN
+                    </button>
+                <div id='dropdown-menu' class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item text-secondary" href="/slogin">Student Login</a><hr>
+                        <a class="dropdown-item text-secondary" href="#">Teacher login</a><hr>
+                        <a class="dropdown-item text-secondary" href="#">Parent Login</a>
+
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-white" href="#">ABOUT </a>
+            </li>
+        </ul>
+    </div>
+</nav>

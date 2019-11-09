@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{title}}</title>
+    {{!-- font awesome --}}
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.1/css/all.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.1/css/v4-shims.css">
+    {{!-- Bootstrap cdn --}}
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" >
+
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+</head>
+
+<body>
+{{>header}}
+<script   src="https://code.jquery.com/jquery-1.12.3.min.js" crossorigin="anonymous"></script>
+<div class="contailer">
+    {{{body}}}
+</div>
+{{!-- Bootstrap --}}
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" ></script>
+</body>
+</html>

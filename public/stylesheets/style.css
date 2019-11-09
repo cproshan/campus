@@ -1,0 +1,18 @@
+.center{
+    text-align: center;
+}
+
+.bgimg{
+    width: 100%;
+    height: 700px;
+}
+.main{
+    height: 100px;
+}
+.centered {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
