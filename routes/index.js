@@ -11,4 +11,6 @@ router.get('/slogin', function(req, res, next) {
   res.render('slogin');
 });
 
+
+
 module.exports = router;
