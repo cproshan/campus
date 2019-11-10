@@ -15,4 +15,8 @@ router.get('/tlogin', function(req, res, next) {
   res.render('tlogin');
 });
 
+router.get('/plogin', function(req, res, next) {
+  res.render('plogin');
+});
+
 module.exports = router;
