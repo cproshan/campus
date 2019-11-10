@@ -24,7 +24,7 @@ router.get('/about', function(req, res, next) {
 });
 
 router.get('/dashboard/index', function(req, res, next) {
-  res.render('/dashboard/index');
+  res.redirect('/dashboard/index');
 });
 
 module.exports = router;
