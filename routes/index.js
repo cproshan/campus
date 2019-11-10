@@ -23,6 +23,8 @@ router.get('/about', function(req, res, next) {
   res.render('about');
 });
 
-
+router.get('/dashboard/index', function(req, res, next) {
+  res.render('/dashboard/index');
+});
 
 module.exports = router;
