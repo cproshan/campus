@@ -2,8 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1cac18ad-3ea8-4268-b213-59223613dba4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/views/dir.hbs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/background1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/javascripts/about/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/javascripts/about/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/javascripts/about/jquery.easing.1.3.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/javascripts/about/jquery.easing.1.3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/javascripts/about/jquery.magnific-popup.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/javascripts/about/jquery.magnific-popup.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/javascripts/about/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/javascripts/about/jquery.waypoints.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/javascripts/about/jquery.waypoints.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/javascripts/about/magnific-popup-options.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/javascripts/about/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/javascripts/about/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/javascripts/about/modernizr-2.6.2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/javascripts/about/owl.carousel.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/javascripts/about/owl.carousel.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/javascripts/about/respond.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/stylesheets/about/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/stylesheets/about/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/stylesheets/about/icomoon.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/stylesheets/about/magnific-popup.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/stylesheets/about/magnific-popup.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/stylesheets/about/owl.carousel.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/stylesheets/about/owl.carousel.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/stylesheets/about/owl.theme.default.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/stylesheets/about/owl.theme.default.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/stylesheets/about/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/stylesheets/about/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/stylesheets/dashboard/Dashstyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/stylesheets/dashboard/Dashstyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/stylesheets/dashboard/style.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/about.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/about.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/dashboard/index.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/dashboard/index.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/layouts/layout.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/layouts/layout.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/slogin.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/slogin.hbs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +103,16 @@
       <workItem from="1573350250536" duration="4131000" />
       <workItem from="1573360135909" duration="7673000" />
       <workItem from="1573389526632" duration="3313000" />
-      <workItem from="1573393303727" duration="7133000" />
+      <workItem from="1573393303727" duration="8380000" />
+      <workItem from="1573535872040" duration="1512000" />
+      <workItem from="1573537439753" duration="3923000" />
+      <workItem from="1573548858233" duration="607000" />
+      <workItem from="1574349155580" duration="1446000" />
+      <workItem from="1574352245936" duration="53000" />
+      <workItem from="1574771184730" duration="2641000" />
+      <workItem from="1574861044883" duration="612000" />
+      <workItem from="1575037523745" duration="4549000" />
+      <workItem from="1575111337481" duration="226000" />
     </task>
     <servers />
   </component>
