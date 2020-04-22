@@ -58,3 +58,376 @@
     font-size: 20px;
     color: whitesmoke;
 }
+
+
+
+body{
+    background-color:lightgray;
+    font-family: "Roboto",sans-serif;
+    font-size:16px;
+    margin:0px;
+    color:darkslategray;
+}
+.nav1{
+    background-color:#1D0A0B;
+    margin-top: 1px;
+    margin-right: 760px;
+    height: 30px;
+//border-radius: 5px;
+    padding:5px;
+    border-right:2px solid darkgoldenrod;
+}
+.nav1 ul{
+    list-style-type:none;
+    text-align:justify;
+    padding:1px;
+    margin-top:2px;
+}
+.nav1 ul li{
+    display: inline;
+//border-left:1px solid darkgoldenrod;
+//border-left-height:16px;
+}
+.nav1 ul li a{
+    text-decoration:none;
+    font-size:16px;
+    padding:35px;
+    margin-top:2px;
+    color:darkgoldenrod;
+
+}
+.nav1 ul li a:hover{
+    color:silver;
+
+}
+.navmarquee
+{
+
+    background-color:#1D0A0B;
+    margin-top: 0px;
+    height: 30px;
+//border-radius: 5px;
+    padding:5px;
+    width:490px;
+    float:right;
+    clear:top;
+    font-size:16px;
+    margin-right: 0px;
+//margin-left:0px;
+    color:darkgoldenrod;
+
+}
+
+.nav2{
+    background-color:#1D0A0B;
+    margin-top: 0px;
+    height: 30px;
+//border-radius: 5px;
+    padding:5px;
+    width:250px;
+    float:right;
+    border-left:1px solid darkgoldenrod;
+}
+.nav2 ul{
+    list-style-type:none;
+    text-align:left;
+    padding:0px;
+    margin-top:2px;
+
+}
+.nav2 ul li{
+    display: inline;
+
+}
+.nav2 ul li a{
+    text-decoration:none;
+    font-size:13px;
+    padding-right:10px;
+    padding-left:10px;
+    margin-top:2px;
+    color:darkgoldenrod;
+}
+
+
+.img1,.img2,.img3
+{
+    min-height: 30px;
+    max-width: 40px;
+    max-height: 25px;
+    padding-right:20px;
+    border-right:1px solid darkgoldenrod;
+}
+header{
+    background-color:#0A091A;
+    margin-top:0px;
+    color:whitesmoke;
+    padding:1px;
+    height:auto;
+}
+header ul{
+    list-style-type:none;
+    text-align:center;
+    padding:0px;
+    margin-top:2px;
+
+}
+header ul li{
+    display: inline;
+
+
+}
+header ul li a{
+    text-decoration:none;
+    font-size:17px;
+    padding-right:8px;
+    padding-left8px;
+    margin-top:2px;
+    margin-left:300px;
+    margin-left:100px;
+    color:white;
+//border-top:2px solid white;
+}
+header ul li a:hover{
+    color:grey;
+
+
+}
+header h3{
+    margin-left:50px;
+    font-size: 16px;
+    padding:0px;
+    font-weight:lighter;
+    font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+    margin-bottom:2px;
+}
+.hrheader{
+    color: aqua;
+    margin-left:50px;
+    padding:0px;
+    margin-top:0px;
+    margin-bottom:2px;
+    margin-right:450px;
+}
+header h6{
+    margin-left:180px;
+    font-size: 10px;
+    padding:0px;
+    letter-spacing: 5px;
+    font-weight:bolder;
+    color:gray;
+    margin-top:0px;
+    margin-bottom:2px;
+    margin-bottom:0px;
+}
+header img{
+    margin-left:2px;
+    max-height: 100px;
+    max-width: 100px;
+    float:left;
+    clear:left;
+}
+.headermain{
+    background-color:black;
+    margin-top:0px;
+    padding:1px;
+    height: 500px;
+}
+
+
+.leftee h4{
+    color:#3B2D04;
+
+    font-size:25px;
+    padding:0px;
+    margin-left:0px;
+    text-align: center;
+    margin-bottum:0;
+}
+.leftee p{
+    margin-left:14px;
+}
+.leftee {
+    color:#696767;
+    height:600px;
+    text-align:left;
+    line-height: 38px;
+    padding:10px;
+    margin-top:0px;
+    background-color:white;
+    margin-right:0px;
+    margin-bottom:0px;
+}
+
+.rightee{
+    border-left:3px solid #8E700A;
+    float:right;
+    background-color:white;
+    text-align:left;
+    width:50%;
+    line-height: 38px;
+    padding-left:15px;
+    margin-top:20px;
+    border-left-style: groove;
+    color:#696767;
+    height: 470px;
+    margin-bottom:0px;;
+}
+.rightee h4{
+    color:#3B2D04;
+    text-align:center;
+    font-size:25px;
+    margin-top:12px;
+}
+.rightee1{
+    float:right;
+    clear:both;
+    margin-left:20px;
+    background-color:blue;
+    text-align:left;
+    width:50%;
+    padding-top:0px;
+    margin-top:1px;
+    line-height: 38px;
+    color:#696767;
+    height: auto;
+
+}
+.rightee1 h4{
+    color:#3B2D04;
+    text-align:center;
+    font-size:25px;
+}
+.bottomDiv{
+    height:50px;
+    position:auto;
+    margin-top:0px;
+    text-align: center;
+    font-size:18px;
+    color:#764F0D;
+    background-color:#0A091A;
+    padding-top:40px;
+}
+.bottomDiv ul{
+    list-style-type:none;
+    padding:0px;
+    margin-top:-8px;
+
+}
+.bottomDiv ul li{
+    display: inline;
+    padding:55px;
+}
+footer{
+    background-color:#1B1B1B;
+    color:white;
+    text-align:center;
+    font-size:14px;
+    margin-top:120px;
+    float:bottom;
+    clear:bottom;
+    padding:5px;
+
+    height:80px;
+}
+footer h5{
+    margin-top:8px;
+}
+
+/* Container holding the image and the text */
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+    transition-delay: 3s ;
+}
+.container,h1{
+    color:white;
+}
+
+.container, .headmainimg:hover {
+    opacity: 0.6;
+    transition: .5s ease;
+}
+/* Bottom left text */
+.bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+}
+
+/* Top left text */
+
+#clglogo img
+{
+    position: absolute;
+    margin-left:500px;
+    margin-top:10px;
+    float:left;
+    clear:left;
+    padding:5px;
+}
+#rightnote{
+    position: absolute;
+    margin-left:630px;
+    margin-top:0px;
+    float:right;
+    clear:right;
+    padding:5px;
+
+
+}
+#rightnote, h1{
+    line-height: 32px;
+    color:white;
+}
+#rightnote, p{
+    font-family:Verdana, Geneva, sans-serif;
+}
+
+.bottomprofile{
+    background-image:linear-gradient(lightgray,white);
+    margin-top:0px;
+    padding:25px;
+}
+
+.imgbottom{
+    border:2px solid black;
+    border-radius:20px;
+    margin-top:0px;
+    margin-left:0px;
+}
+/* Top right text */
+
+
+/* Bottom right text */
+
+
+/* Centered text */
+
+
+/* The overlay effect - lays on top of the container and over the image */
+
+
+/* When you mouse over the container, fade in the overlay title
+
+.overlay {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0);
+  background: rgba(000, 000, 000, 0.5);
+
+  /* Black see-through
+  color: #f1f1f1;
+  width: 100%;
+  transition: .5s ease;
+  opacity:0;
+  color: white;
+  font-size: 20px;
+  padding: 20px;
+  text-align: center;
+}
+.container:hover .overlay {
+  opacity: 1;
+}
+
+*/
